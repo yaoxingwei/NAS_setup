@@ -1,0 +1,11 @@
+README for aria2 folder usage.
+
+1. install aria2 with cmd:
+	$ sudo apt install aria2
+if you want to use latest version, you can download static bin at:
+new version static aria2 bin can find at https://github.com/q3aql/aria2-static-builds
+
+2. run aria2 with cmd:
+	$ aria2_ctl.sh start/stop/restart
+
+3. run aria2_update_trackers.sh to update trakers for aira2 config.
